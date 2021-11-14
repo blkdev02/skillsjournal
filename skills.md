@@ -1,6 +1,6 @@
-## Skills
+# Skills
 
-# My Technical Skills
+## My Technical Skills
 - Programming Language: Python
 - Database Language: SQL
 - Cloud Platform: GCP, AWS
